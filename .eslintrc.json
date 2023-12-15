@@ -18,15 +18,15 @@
     ],
     "rules": {
         "linebreak-style": [
-            "error",
-            "windows"
+            "warning",
+            "tab"
         ],
         "quotes": [
-            "error",
+            "warning",
             "double"
         ],
         "semi": [
-            "error",
+            "warning",
             "always"
         ]
     }
